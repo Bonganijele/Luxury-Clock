@@ -1,0 +1,7 @@
+pyside5
+requrest
+playsound
+openai
+pydub
+gtts
+sr
